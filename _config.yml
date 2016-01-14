@@ -1,5 +1,4 @@
-favicon: null
-name: glassduck
+layout_spectrum: 0.9820789
 opengraph:
   image: null
   type: null
@@ -10,17 +9,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
   lightness: 0.648334
+  brandStrength: 1
   brandColors:
     - '#D0D9E8'
     - '#302830'
@@ -29,12 +28,13 @@ color:
     - '#FFE85D'
   rhythmicContrast: 0.801748
 typography_spectrum: 0.3082437
-layout_spectrum: 0.9820789
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: glassduck
