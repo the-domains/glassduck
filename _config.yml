@@ -1,9 +1,7 @@
-favicon: null
 name: glassduck
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9820789
+typography_spectrum: 0.3082437
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.1014522078912705
-  lightness: 0.6483339678961784
-  brandStrength: 0.7473118
-  brandColors:
-    - '#FFFFFF'
-    - '#413B37'
-    - '#BDBCB4'
-    - '#397570'
-    - '#B56E65'
-  rhythmicContrast: 0.8017480140551925
-typography_spectrum: 0.3082437
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-layout_spectrum: 0.9820789
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#a6a6a6'
+    - '#d7d7d7'
+    - '#282828'
+  brandStrength: 0.7473118
+  lightness: 0.6483339678961784
+  saturation: 0.1014522078912705
+  rhythmicContrast: 0.8017480140551925
+purpose: []
