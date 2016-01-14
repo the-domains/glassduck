@@ -1,6 +1,6 @@
 name: glassduck
 favicon: null
-layout_spectrum: 0.9820789
+layout_spectrum: 0.99699
 typography_spectrum: 0.86473
 collections:
   - index:
@@ -36,5 +36,5 @@ color:
   brandStrength: 0.7473118
   lightness: 0.6483339678961784
   saturation: 0.1014522078912705
-  rhythmicContrast: 0.8017480140551925
+  rhythmicContrast: 0.75
 purpose: []
