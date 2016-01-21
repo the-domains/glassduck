@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: first post on the new site
-datePublished: '2016-01-21T20:11:49.500Z'
+datePublished: '2016-01-21T20:11:49.501Z'
 dateModified: '2016-01-21T20:11:46.768Z'
 title: glassduck
 author: []
