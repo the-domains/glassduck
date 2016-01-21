@@ -4,11 +4,18 @@
         <description><![CDATA[glassduck]]></description>
         <link>https://thegrid.ai/glassduck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 18:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 18:51:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glassduck/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>once the images post</p>]]></description>
+            <link>https://thegrid.ai/glassduck/ddb00dc9-437c-4f93-90f7-6fc6c18e42da/index.html</link>
+            <guid isPermaLink="false">ddb00dc9-437c-4f93-90f7-6fc6c18e42da</guid>
+            <pubDate>Thu, 21 Jan 2016 18:51:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[things are happening]]></title>
-            <description><![CDATA[<article><h1>things are happening</h1><p>undefined</p></article>]]></description>
+            <description><![CDATA[<article><h1>things are happening</h1><p>except that my images aren't posting..</p></article>]]></description>
             <link>https://thegrid.ai/glassduck/things-are-happening/index.html</link>
             <guid isPermaLink="false">21e10b97-ddd6-415f-ac66-e02b67aa66b8</guid>
             <pubDate>Thu, 21 Jan 2016 18:46:44 GMT</pubDate>
