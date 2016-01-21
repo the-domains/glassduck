@@ -4,7 +4,7 @@
         <description><![CDATA[glassduck]]></description>
         <link>https://thegrid.ai/glassduck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 20:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 20:13:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glassduck/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[glassduck]]></title>
@@ -36,10 +36,10 @@
         </item>
         <item>
             <title><![CDATA[so far i'm not sure...]]></title>
-            <description><![CDATA[<article><h1>so far i'm not sure...</h1><p>i <3 glassblowing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe3ef0b7641e75140a9f288b1860882f53099e1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>so far i'm not sure...</h1><p>i'm not sure why you have to open a post to see the images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe3ef0b7641e75140a9f288b1860882f53099e1.jpg"></article>]]></description>
             <link>https://thegrid.ai/glassduck/so-far-im-not-sure/index.html</link>
             <guid isPermaLink="false">6df19335-96d9-4d78-a400-635666e9824a</guid>
-            <pubDate>Thu, 21 Jan 2016 20:10:44 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 20:11:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
