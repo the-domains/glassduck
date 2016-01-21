@@ -4,8 +4,15 @@
         <description><![CDATA[glassduck]]></description>
         <link>https://thegrid.ai/glassduck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 20:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 20:05:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glassduck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[glassduck]]></title>
+            <description><![CDATA[<article><h1>glassduck</h1><p>glassduck turns 14 this year!  whoa.  (birthday cake emoji)   so to celebrate, we are  (i am) trying to figure out how to make a new website.. </p></article>]]></description>
+            <link>https://thegrid.ai/glassduck/glassduck/index.html</link>
+            <guid isPermaLink="false">615da745-74c7-4962-8004-7931d4fed132</guid>
+            <pubDate>Thu, 21 Jan 2016 20:05:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0471cff-1d37-42f2-a2f1-46b7a72f0f20.JPG" alt="hearts with wings 2013" title="">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/glassduck/so-far-im-not-sure/index.html</link>
             <guid isPermaLink="false">6df19335-96d9-4d78-a400-635666e9824a</guid>
             <pubDate>Thu, 21 Jan 2016 19:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[glassduck]]></title>
-            <description><![CDATA[<article><h1>glassduck</h1><p>glassduck turns 14 this year!  whoa.  (birthday cake emoji)   so to celebrate, we are  (i am) trying to figure out how to make a new website.. </p></article>]]></description>
-            <link>https://thegrid.ai/glassduck/glassduck/index.html</link>
-            <guid isPermaLink="false">615da745-74c7-4962-8004-7931d4fed132</guid>
-            <pubDate>Thu, 21 Jan 2016 20:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
