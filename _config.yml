@@ -1,7 +1,7 @@
 name: glassduck
 favicon: null
 layout_spectrum: 0.9820789
-typography_spectrum: 0.3082437
+typography_spectrum: 0.13126
 collections:
   - index:
       path: /
