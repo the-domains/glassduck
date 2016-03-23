@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "glassduck turns 14 this year! \_Whoa. \_ So to celebrate, I am making a new website!"
-datePublished: '2016-03-23T01:11:42.383Z'
-dateModified: '2016-03-23T01:11:33.791Z'
+description: "I started glassduck in 2002. \_Whoa. \_Time sure flies. \_\_"
+datePublished: '2016-03-23T01:26:37.503Z'
+dateModified: '2016-03-23T01:26:33.501Z'
 title: glassduck
 author: []
 sourcePath: _posts/2016-01-21-glassduck.md
@@ -24,7 +24,9 @@ _type: Article
 ---
 # glassduck
 
-**I started glassduck in 2002\.  Whoa.  Time sure flies.   **
+**Welcome to the all new glassduck**
+
+I started glassduck in 2002\.  Whoa.  Time sure flies.   
 
 So to celebrate, I am making a new website!
 
