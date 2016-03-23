@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm making a glass dress for the GAS 2016 fashion show in Corning, NY!"
-datePublished: '2016-03-23T00:21:42.413Z'
-dateModified: '2016-03-23T00:21:01.107Z'
+datePublished: '2016-03-23T00:30:52.163Z'
+dateModified: '2016-03-23T00:30:36.531Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-23-im-making-a-glass-dress-for-the-gas-2016-fashion-show-in-co.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-im-making-a-glass-dress-for-the-gas-2016-fashion-show-in-co.md
-published: true
 url: im-making-a-glass-dress-for-the-gas-2016-fashion-show-in-co/index.html
 _type: Article
 
