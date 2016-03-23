@@ -1,5 +1,8 @@
+name: glassduck
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.05411
 title: glassduck
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8046595
-  brandStrength: 0.5483871
-  lightness: 0.6774194
   brandColors:
     - '#C4D1D8'
     - '#030120'
     - '#5C4265'
     - '#915C30'
     - '#F9E003'
+  brandStrength: 0.5483871
+  lightness: 0.6774194
+  saturation: 0.8046595
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: glassduck
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.08243728
-layout_spectrum: 1
+purpose: []
