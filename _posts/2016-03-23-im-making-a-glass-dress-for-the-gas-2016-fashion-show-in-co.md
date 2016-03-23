@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm making a glass dress for the GAS 2016 fashion show in Corning, NY!"
-datePublished: '2016-03-23T00:49:35.158Z'
-dateModified: '2016-03-23T00:49:20.340Z'
+datePublished: '2016-03-23T00:54:36.697Z'
+dateModified: '2016-03-23T00:49:35.845Z'
 title: glass dress gallery
 author: []
 sourcePath: _posts/2016-03-23-im-making-a-glass-dress-for-the-gas-2016-fashion-show-in-co.md
@@ -29,7 +29,5 @@ I'm super excited about it.  I've been working on it for nearly 2 years.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c61a2c4b-cd4e-43cd-96a1-01be6dffb64b.jpg)
 
 here is where I'll post pictures of the work in progress
-
-I'm not totally sure how this works.. but I'll keep adding pictures to this post as the the dress comes along.
 
 xo leah
