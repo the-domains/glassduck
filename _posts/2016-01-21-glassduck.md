@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Welcome to the all new glassduck
-datePublished: '2016-03-23T01:27:36.127Z'
-dateModified: '2016-03-23T01:27:25.673Z'
+datePublished: '2016-03-23T01:33:41.055Z'
+dateModified: '2016-03-23T01:33:34.638Z'
 title: glassduck
 author: []
 sourcePath: _posts/2016-01-21-glassduck.md
