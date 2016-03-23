@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "glassduck turns 14 this year! \_Whoa. \_ So to celebrate, I am making a new website!"
-datePublished: '2016-03-23T00:53:54.174Z'
-dateModified: '2016-03-23T00:53:35.804Z'
+datePublished: '2016-03-23T00:54:22.857Z'
+dateModified: '2016-03-23T00:53:59.902Z'
 title: glassduck
 author: []
 sourcePath: _posts/2016-01-21-glassduck.md
@@ -31,5 +31,4 @@ I've tried this before.. I've had a professional website made, I've made my own 
 I haven't quite figured out this new ai, but I'll get there.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4db8203-2dc9-4b12-80c0-8fa683870f00.jpg)
 
-  
 xo Leah
