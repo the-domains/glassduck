@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "glassduck turns 14 this year! \_Whoa. \_ So to celebrate, I am making a new website!"
-datePublished: '2016-03-23T01:00:07.014Z'
-dateModified: '2016-03-23T00:59:22.284Z'
+datePublished: '2016-03-23T01:01:27.425Z'
+dateModified: '2016-03-23T01:01:10.872Z'
 title: glassduck
 author: []
 sourcePath: _posts/2016-01-21-glassduck.md
